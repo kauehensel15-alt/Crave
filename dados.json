@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-11T10:19:11.609Z",
+ "consultadoEm": "2026-10-11T10:43:27.711Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 912,
+   "duracaoMs": 10433,
    "ok": true,
-   "nivelCm": 1378,
-   "leituraEm": "2026-10-11T10:00:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 6.2
+   "nivelCm": 1375,
+   "leituraEm": "2026-10-11T10:30:00.000Z",
+   "variacao1hCm": -5,
+   "chuva24hMm": 2.8
   },
   {
    "codigo": "86720000",
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 808,
+   "duracaoMs": 13399,
    "ok": true,
-   "nivelCm": 284,
-   "leituraEm": "2026-10-11T10:00:00.000Z",
-   "variacao1hCm": -5,
-   "chuva24hMm": 8.8
+   "nivelCm": 283,
+   "leituraEm": "2026-10-11T10:30:00.000Z",
+   "variacao1hCm": -3,
+   "chuva24hMm": 4.8
   },
   {
    "codigo": "86510000",
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 771,
+   "duracaoMs": 7815,
    "ok": true,
-   "nivelCm": 478,
-   "leituraEm": "2026-10-11T09:45:00.000Z",
-   "variacao1hCm": -3,
+   "nivelCm": 477,
+   "leituraEm": "2026-10-11T10:15:00.000Z",
+   "variacao1hCm": -2,
    "chuva24hMm": 12
   },
   {
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 762,
+   "duracaoMs": 5242,
    "ok": true,
    "nivelCm": 460,
    "leituraEm": "2026-10-11T09:45:00.000Z",
