@@ -1,0 +1,78 @@
+{
+ "consultadoEm": "2026-10-11T02:28:33.335Z",
+ "estacoes": [
+  {
+   "codigo": "86879300",
+   "nome": "Estrela / Lajeado",
+   "papel": "principal",
+   "cotas": {
+    "atencao": 1500,
+    "alerta": 1700,
+    "inundacao": 1900
+   },
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=09/10/2026&dataFim=11/10/2026",
+   "duracaoMs": 1101,
+   "ok": true,
+   "nivelCm": 1335,
+   "leituraEm": "2026-10-11T02:00:00.000Z",
+   "variacao1hCm": 8,
+   "chuva24hMm": 11.6
+  },
+  {
+   "codigo": "86720000",
+   "nome": "Encantado",
+   "papel": "montante",
+   "cotas": {
+    "atencao": 500,
+    "alerta": 900,
+    "inundacao": 1200
+   },
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=09/10/2026&dataFim=11/10/2026",
+   "duracaoMs": 1025,
+   "ok": true,
+   "nivelCm": 319,
+   "leituraEm": "2026-10-11T02:00:00.000Z",
+   "variacao1hCm": 12,
+   "chuva24hMm": 8.8
+  },
+  {
+   "codigo": "86510000",
+   "nome": "Muçum",
+   "papel": "montante",
+   "cotas": {
+    "atencao": 500,
+    "alerta": 900,
+    "inundacao": 1800
+   },
+   "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=09/10/2026&dataFim=11/10/2026",
+   "duracaoMs": 1017,
+   "ok": true,
+   "nivelCm": 532,
+   "leituraEm": "2026-10-11T02:00:00.000Z",
+   "variacao1hCm": 1,
+   "chuva24hMm": 12
+  },
+  {
+   "codigo": "86472600",
+   "nome": "Santa Tereza",
+   "papel": "montante",
+   "cotas": {
+    "atencao": 600,
+    "alerta": 900,
+    "inundacao": 1500
+   },
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=09/10/2026&dataFim=11/10/2026",
+   "duracaoMs": 1194,
+   "ok": true,
+   "nivelCm": 500,
+   "leituraEm": "2026-10-11T01:45:00.000Z",
+   "variacao1hCm": -9,
+   "chuva24hMm": 7.6
+  }
+ ],
+ "avisos": {
+  "ok": true,
+  "avisos": []
+ }
+}
