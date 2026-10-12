@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-12T02:14:39.008Z",
+ "consultadoEm": "2026-10-12T02:38:30.230Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 1133,
+   "duracaoMs": 971,
    "ok": true,
-   "nivelCm": 1320,
-   "leituraEm": "2026-10-12T01:30:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 0.4,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 1319,
+   "leituraEm": "2026-10-12T02:15:00.000Z",
+   "variacao1hCm": -2,
+   "chuva24hMm": 0.4
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 1175,
+   "duracaoMs": 6238,
    "ok": true,
-   "nivelCm": 265,
-   "leituraEm": "2026-10-12T01:30:00.000Z",
-   "variacao1hCm": 12,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 276,
+   "leituraEm": "2026-10-12T02:15:00.000Z",
+   "variacao1hCm": 13,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 1046,
+   "duracaoMs": 1675,
    "ok": true,
-   "nivelCm": 487,
-   "leituraEm": "2026-10-12T01:15:00.000Z",
-   "variacao1hCm": 25,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 499,
+   "leituraEm": "2026-10-12T02:15:00.000Z",
+   "variacao1hCm": 12,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 943,
+   "duracaoMs": 5875,
    "ok": true,
-   "nivelCm": 493,
-   "leituraEm": "2026-10-12T00:45:00.000Z",
-   "variacao1hCm": 0,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 487,
+   "leituraEm": "2026-10-12T01:45:00.000Z",
+   "variacao1hCm": -6,
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
