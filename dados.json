@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-12T02:59:32.466Z",
+ "consultadoEm": "2026-10-12T03:22:51.644Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -10,11 +10,11 @@
     "alerta": 1700,
     "inundacao": 1900
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 1001,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=11/10/2026&dataFim=13/10/2026",
+   "duracaoMs": 1270,
    "ok": true,
-   "nivelCm": 1318,
-   "leituraEm": "2026-10-12T02:30:00.000Z",
+   "nivelCm": 1317,
+   "leituraEm": "2026-10-12T03:00:00.000Z",
    "variacao1hCm": -2,
    "chuva24hMm": 0.4
   },
@@ -27,12 +27,12 @@
     "alerta": 900,
     "inundacao": 1200
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 996,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=11/10/2026&dataFim=13/10/2026",
+   "duracaoMs": 1365,
    "ok": true,
-   "nivelCm": 280,
-   "leituraEm": "2026-10-12T02:30:00.000Z",
-   "variacao1hCm": 15,
+   "nivelCm": 285,
+   "leituraEm": "2026-10-12T03:00:00.000Z",
+   "variacao1hCm": 11,
    "chuva24hMm": 0
   },
   {
@@ -45,12 +45,12 @@
     "inundacao": 1800
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 961,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=11/10/2026&dataFim=13/10/2026",
+   "duracaoMs": 908,
    "ok": true,
-   "nivelCm": 500,
-   "leituraEm": "2026-10-12T02:30:00.000Z",
-   "variacao1hCm": 8,
+   "nivelCm": 501,
+   "leituraEm": "2026-10-12T03:00:00.000Z",
+   "variacao1hCm": 4,
    "chuva24hMm": 0
   },
   {
@@ -62,8 +62,8 @@
     "alerta": 900,
     "inundacao": 1500
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=10/10/2026&dataFim=12/10/2026",
-   "duracaoMs": 1022,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=11/10/2026&dataFim=13/10/2026",
+   "duracaoMs": 1013,
    "ok": true,
    "nivelCm": 478,
    "leituraEm": "2026-10-12T02:45:00.000Z",
