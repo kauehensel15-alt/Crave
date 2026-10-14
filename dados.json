@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-14T02:43:52.573Z",
+ "consultadoEm": "2026-10-14T03:12:00.996Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -10,14 +10,13 @@
     "alerta": 1700,
     "inundacao": 1900
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=12/10/2026&dataFim=14/10/2026",
-   "duracaoMs": 1199,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=13/10/2026&dataFim=15/10/2026",
+   "duracaoMs": 920,
    "ok": true,
-   "nivelCm": 1299,
-   "leituraEm": "2026-10-13T23:15:00.000Z",
+   "nivelCm": 1273,
+   "leituraEm": "2026-10-14T02:45:00.000Z",
    "variacao1hCm": -6,
-   "chuva24hMm": 2.8,
-   "falhaUltimaColeta": "HTTP 504"
+   "chuva24hMm": 0.2
   },
   {
    "codigo": "86720000",
@@ -28,14 +27,13 @@
     "alerta": 900,
     "inundacao": 1200
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=12/10/2026&dataFim=14/10/2026",
-   "duracaoMs": 1552,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=13/10/2026&dataFim=15/10/2026",
+   "duracaoMs": 1014,
    "ok": true,
-   "nivelCm": 162,
-   "leituraEm": "2026-10-13T23:15:00.000Z",
-   "variacao1hCm": 8,
-   "chuva24hMm": 1.8,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 223,
+   "leituraEm": "2026-10-14T02:45:00.000Z",
+   "variacao1hCm": 21,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -47,14 +45,13 @@
     "inundacao": 1800
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=12/10/2026&dataFim=14/10/2026",
-   "duracaoMs": 2551,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=13/10/2026&dataFim=15/10/2026",
+   "duracaoMs": 1133,
    "ok": true,
-   "nivelCm": 390,
-   "leituraEm": "2026-10-14T00:15:00.000Z",
-   "variacao1hCm": 33,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 437,
+   "leituraEm": "2026-10-14T02:45:00.000Z",
+   "variacao1hCm": 7,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -65,29 +62,17 @@
     "alerta": 900,
     "inundacao": 1500
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=12/10/2026&dataFim=14/10/2026",
-   "duracaoMs": 1987,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=13/10/2026&dataFim=15/10/2026",
+   "duracaoMs": 1048,
    "ok": true,
-   "nivelCm": 437,
-   "leituraEm": "2026-10-13T23:45:00.000Z",
-   "variacao1hCm": 10,
-   "chuva24hMm": 0.6,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 421,
+   "leituraEm": "2026-10-14T02:45:00.000Z",
+   "variacao1hCm": -9,
+   "chuva24hMm": 0.2
   }
  ],
  "avisos": {
   "ok": true,
-  "avisos": [
-   {
-    "grupo": "hoje",
-    "descricao": "Tempestade",
-    "severidade": "Perigo Potencial",
-    "inicio": "2026-10-13T00:00:00.000Z 08:57",
-    "fim": "2026-10-13T00:00:00.000Z 23:59",
-    "municipios": [
-     "Lajeado"
-    ]
-   }
-  ]
+  "avisos": []
  }
 }
