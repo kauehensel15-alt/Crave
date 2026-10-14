@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-14T11:59:13.171Z",
+ "consultadoEm": "2026-10-14T12:38:38.590Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=13/10/2026&dataFim=15/10/2026",
-   "duracaoMs": 1276,
+   "duracaoMs": 1125,
    "ok": true,
-   "nivelCm": 1340,
-   "leituraEm": "2026-10-14T11:30:00.000Z",
-   "variacao1hCm": 5,
+   "nivelCm": 1335,
+   "leituraEm": "2026-10-14T12:15:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 0.4
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=13/10/2026&dataFim=15/10/2026",
-   "duracaoMs": 1479,
+   "duracaoMs": 1012,
    "ok": true,
-   "nivelCm": 200,
-   "leituraEm": "2026-10-14T11:30:00.000Z",
-   "variacao1hCm": -5,
+   "nivelCm": 197,
+   "leituraEm": "2026-10-14T12:15:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 0
   },
   {
@@ -46,10 +46,10 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=13/10/2026&dataFim=15/10/2026",
-   "duracaoMs": 1444,
+   "duracaoMs": 1024,
    "ok": true,
-   "nivelCm": 380,
-   "leituraEm": "2026-10-14T11:30:00.000Z",
+   "nivelCm": 377,
+   "leituraEm": "2026-10-14T12:15:00.000Z",
    "variacao1hCm": -4,
    "chuva24hMm": 0
   },
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=13/10/2026&dataFim=15/10/2026",
-   "duracaoMs": 1309,
+   "duracaoMs": 919,
    "ok": true,
    "nivelCm": 372,
    "leituraEm": "2026-10-14T11:45:00.000Z",
@@ -73,6 +73,17 @@
  ],
  "avisos": {
   "ok": true,
-  "avisos": []
+  "avisos": [
+   {
+    "grupo": "futuro",
+    "descricao": "Tempestade",
+    "severidade": "Perigo Potencial",
+    "inicio": "2026-10-15T00:00:00.000Z 00:01",
+    "fim": "2026-10-15T00:00:00.000Z 23:59",
+    "municipios": [
+     "Lajeado"
+    ]
+   }
+  ]
  }
 }
