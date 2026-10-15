@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-15T14:46:07.171Z",
+ "consultadoEm": "2026-10-15T15:29:07.633Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,10 +11,10 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 1242,
+   "duracaoMs": 984,
    "ok": true,
    "nivelCm": 1310,
-   "leituraEm": "2026-10-15T14:15:00.000Z",
+   "leituraEm": "2026-10-15T15:00:00.000Z",
    "variacao1hCm": -1,
    "chuva24hMm": 1.4
   },
@@ -28,10 +28,10 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 1018,
+   "duracaoMs": 1401,
    "ok": true,
-   "nivelCm": 176,
-   "leituraEm": "2026-10-15T14:15:00.000Z",
+   "nivelCm": 175,
+   "leituraEm": "2026-10-15T15:00:00.000Z",
    "variacao1hCm": -2,
    "chuva24hMm": 0
   },
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 1011,
+   "duracaoMs": 913,
    "ok": true,
-   "nivelCm": 355,
-   "leituraEm": "2026-10-15T14:15:00.000Z",
-   "variacao1hCm": -3,
+   "nivelCm": 352,
+   "leituraEm": "2026-10-15T15:00:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 0.2
   },
   {
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 1198,
+   "duracaoMs": 1224,
    "ok": true,
-   "nivelCm": 350,
-   "leituraEm": "2026-10-15T13:45:00.000Z",
-   "variacao1hCm": -5,
+   "nivelCm": 348,
+   "leituraEm": "2026-10-15T14:45:00.000Z",
+   "variacao1hCm": -2,
    "chuva24hMm": 0
   }
  ],
