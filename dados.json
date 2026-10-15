@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-15T10:45:35.480Z",
+ "consultadoEm": "2026-10-15T11:24:04.368Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,10 +11,10 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 2276,
+   "duracaoMs": 1245,
    "ok": true,
-   "nivelCm": 1304,
-   "leituraEm": "2026-10-15T10:15:00.000Z",
+   "nivelCm": 1309,
+   "leituraEm": "2026-10-15T11:00:00.000Z",
    "variacao1hCm": 6,
    "chuva24hMm": 1.4
   },
@@ -28,10 +28,10 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 754,
+   "duracaoMs": 1174,
    "ok": true,
    "nivelCm": 181,
-   "leituraEm": "2026-10-15T10:15:00.000Z",
+   "leituraEm": "2026-10-15T11:00:00.000Z",
    "variacao1hCm": 1,
    "chuva24hMm": 0
   },
@@ -46,10 +46,10 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 975,
+   "duracaoMs": 1286,
    "ok": true,
-   "nivelCm": 365,
-   "leituraEm": "2026-10-15T10:15:00.000Z",
+   "nivelCm": 364,
+   "leituraEm": "2026-10-15T11:00:00.000Z",
    "variacao1hCm": -1,
    "chuva24hMm": 0.2
   },
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=14/10/2026&dataFim=16/10/2026",
-   "duracaoMs": 920,
+   "duracaoMs": 1491,
    "ok": true,
-   "nivelCm": 365,
-   "leituraEm": "2026-10-15T09:45:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 362,
+   "leituraEm": "2026-10-15T10:45:00.000Z",
+   "variacao1hCm": -3,
    "chuva24hMm": 0
   }
  ],
