@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-17T02:27:03.752Z",
+ "consultadoEm": "2026-10-17T02:58:53.272Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=15/10/2026&dataFim=17/10/2026",
-   "duracaoMs": 996,
+   "duracaoMs": 1047,
    "ok": true,
-   "nivelCm": 1297,
-   "leituraEm": "2026-10-17T01:30:00.000Z",
+   "nivelCm": 1292,
+   "leituraEm": "2026-10-17T02:30:00.000Z",
    "variacao1hCm": -5,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "chuva24hMm": 0
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=15/10/2026&dataFim=17/10/2026",
-   "duracaoMs": 826,
+   "duracaoMs": 927,
    "ok": true,
-   "nivelCm": 131,
-   "leituraEm": "2026-10-17T01:30:00.000Z",
-   "variacao1hCm": 5,
-   "chuva24hMm": 0.2,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 142,
+   "leituraEm": "2026-10-17T02:30:00.000Z",
+   "variacao1hCm": 11,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=15/10/2026&dataFim=17/10/2026",
-   "duracaoMs": 863,
+   "duracaoMs": 815,
    "ok": true,
-   "nivelCm": 332,
-   "leituraEm": "2026-10-17T01:30:00.000Z",
-   "variacao1hCm": 17,
-   "chuva24hMm": 0.2,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 340,
+   "leituraEm": "2026-10-17T02:30:00.000Z",
+   "variacao1hCm": 8,
+   "chuva24hMm": 0.2
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=15/10/2026&dataFim=17/10/2026",
-   "duracaoMs": 828,
+   "duracaoMs": 873,
    "ok": true,
-   "nivelCm": 350,
-   "leituraEm": "2026-10-17T01:45:00.000Z",
+   "nivelCm": 349,
+   "leituraEm": "2026-10-17T02:45:00.000Z",
    "variacao1hCm": -1,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
