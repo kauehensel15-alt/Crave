@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-18T19:36:08.811Z",
+ "consultadoEm": "2026-10-18T20:00:15.176Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 989,
+   "duracaoMs": 1979,
    "ok": true,
    "nivelCm": 1286,
-   "leituraEm": "2026-10-18T19:15:00.000Z",
-   "variacao1hCm": -7,
+   "leituraEm": "2026-10-18T19:30:00.000Z",
+   "variacao1hCm": -6,
    "chuva24hMm": 1.8
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1026,
+   "duracaoMs": 1361,
    "ok": true,
-   "nivelCm": 113,
-   "leituraEm": "2026-10-18T19:15:00.000Z",
-   "variacao1hCm": -15,
+   "nivelCm": 110,
+   "leituraEm": "2026-10-18T19:30:00.000Z",
+   "variacao1hCm": -14,
    "chuva24hMm": 1.2
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1228,
+   "duracaoMs": 3211,
    "ok": true,
-   "nivelCm": 244,
-   "leituraEm": "2026-10-18T19:15:00.000Z",
-   "variacao1hCm": -22,
+   "nivelCm": 239,
+   "leituraEm": "2026-10-18T19:30:00.000Z",
+   "variacao1hCm": -21,
    "chuva24hMm": 1.8
   },
   {
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1450,
+   "duracaoMs": 1034,
    "ok": true,
-   "nivelCm": 212,
-   "leituraEm": "2026-10-18T18:45:00.000Z",
-   "variacao1hCm": -6,
+   "nivelCm": 214,
+   "leituraEm": "2026-10-18T19:45:00.000Z",
+   "variacao1hCm": 2,
    "chuva24hMm": 1
   }
  ],
