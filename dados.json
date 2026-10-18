@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-18T10:19:36.385Z",
+ "consultadoEm": "2026-10-18T10:53:15.668Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1077,
+   "duracaoMs": 1480,
    "ok": true,
-   "nivelCm": 1313,
-   "leituraEm": "2026-10-18T10:00:00.000Z",
-   "variacao1hCm": 2,
+   "nivelCm": 1317,
+   "leituraEm": "2026-10-18T10:30:00.000Z",
+   "variacao1hCm": 5,
    "chuva24hMm": 1.8
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1146,
+   "duracaoMs": 37146,
    "ok": true,
-   "nivelCm": 181,
-   "leituraEm": "2026-10-18T10:00:00.000Z",
-   "variacao1hCm": -6,
+   "nivelCm": 179,
+   "leituraEm": "2026-10-18T10:30:00.000Z",
+   "variacao1hCm": -5,
    "chuva24hMm": 1.2
   },
   {
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 1098,
+   "duracaoMs": 1586,
    "ok": true,
-   "nivelCm": 364,
-   "leituraEm": "2026-10-18T09:45:00.000Z",
-   "variacao1hCm": -8,
-   "chuva24hMm": 0.2
+   "nivelCm": 361,
+   "leituraEm": "2026-10-18T10:15:00.000Z",
+   "variacao1hCm": -7,
+   "chuva24hMm": 1.8
   },
   {
    "codigo": "86472600",
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=17/10/2026&dataFim=19/10/2026",
-   "duracaoMs": 947,
+   "duracaoMs": 1620,
    "ok": true,
    "nivelCm": 353,
    "leituraEm": "2026-10-18T09:45:00.000Z",
