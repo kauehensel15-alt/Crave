@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-19T10:05:39.899Z",
+ "consultadoEm": "2026-10-19T10:44:39.733Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=18/10/2026&dataFim=20/10/2026",
-   "duracaoMs": 920,
+   "duracaoMs": 882,
    "ok": true,
-   "nivelCm": 1282,
-   "leituraEm": "2026-10-19T09:45:00.000Z",
-   "variacao1hCm": 16,
+   "nivelCm": 1296,
+   "leituraEm": "2026-10-19T10:30:00.000Z",
+   "variacao1hCm": 21,
    "chuva24hMm": 0
   },
   {
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=18/10/2026&dataFim=20/10/2026",
-   "duracaoMs": 1133,
+   "duracaoMs": 903,
    "ok": true,
-   "nivelCm": 163,
-   "leituraEm": "2026-10-19T09:45:00.000Z",
+   "nivelCm": 159,
+   "leituraEm": "2026-10-19T10:30:00.000Z",
    "variacao1hCm": -4,
-   "chuva24hMm": 0.2
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=18/10/2026&dataFim=20/10/2026",
-   "duracaoMs": 858,
+   "duracaoMs": 1326,
    "ok": true,
-   "nivelCm": 341,
-   "leituraEm": "2026-10-19T09:45:00.000Z",
+   "nivelCm": 338,
+   "leituraEm": "2026-10-19T10:15:00.000Z",
    "variacao1hCm": -7,
-   "chuva24hMm": 1.6
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=18/10/2026&dataFim=20/10/2026",
-   "duracaoMs": 1060,
+   "duracaoMs": 927,
    "ok": true,
    "nivelCm": 336,
    "leituraEm": "2026-10-19T09:45:00.000Z",
