@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-20T19:58:17.137Z",
+ "consultadoEm": "2026-10-20T20:29:58.635Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1439,
+   "duracaoMs": 847,
    "ok": true,
-   "nivelCm": 1281,
-   "leituraEm": "2026-10-20T19:30:00.000Z",
-   "variacao1hCm": 5,
+   "nivelCm": 1282,
+   "leituraEm": "2026-10-20T20:00:00.000Z",
+   "variacao1hCm": 2,
    "chuva24hMm": 0
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1337,
+   "duracaoMs": 849,
    "ok": true,
-   "nivelCm": 90,
-   "leituraEm": "2026-10-20T19:30:00.000Z",
-   "variacao1hCm": -13,
+   "nivelCm": 82,
+   "leituraEm": "2026-10-20T20:00:00.000Z",
+   "variacao1hCm": -15,
    "chuva24hMm": 0
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1083,
+   "duracaoMs": 876,
    "ok": true,
-   "nivelCm": 218,
-   "leituraEm": "2026-10-20T19:30:00.000Z",
-   "variacao1hCm": -19,
+   "nivelCm": 210,
+   "leituraEm": "2026-10-20T20:00:00.000Z",
+   "variacao1hCm": -17,
    "chuva24hMm": 0
   },
   {
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1219,
+   "duracaoMs": 818,
    "ok": true,
    "nivelCm": 179,
    "leituraEm": "2026-10-20T19:45:00.000Z",
