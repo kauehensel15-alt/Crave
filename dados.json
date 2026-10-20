@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-20T11:59:02.999Z",
+ "consultadoEm": "2026-10-20T12:38:36.239Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -16,7 +16,8 @@
    "nivelCm": 1311,
    "leituraEm": "2026-10-20T11:30:00.000Z",
    "variacao1hCm": 10,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86720000",
@@ -33,7 +34,8 @@
    "nivelCm": 138,
    "leituraEm": "2026-10-20T11:30:00.000Z",
    "variacao1hCm": -3,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86510000",
@@ -51,7 +53,8 @@
    "nivelCm": 321,
    "leituraEm": "2026-10-20T11:30:00.000Z",
    "variacao1hCm": -1,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86472600",
@@ -68,7 +71,8 @@
    "nivelCm": 327,
    "leituraEm": "2026-10-20T11:45:00.000Z",
    "variacao1hCm": -3,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   }
  ],
  "avisos": {
@@ -78,8 +82,8 @@
     "grupo": "futuro",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
-    "inicio": "2026-10-23T00:00:00.000Z 00:01",
-    "fim": "2026-10-23T00:00:00.000Z 23:59",
+    "inicio": "2026-10-24T00:00:00.000Z 00:00",
+    "fim": "2026-10-24T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
     ]
@@ -90,6 +94,16 @@
     "severidade": "Perigo Potencial",
     "inicio": "2026-10-22T00:00:00.000Z 00:01",
     "fim": "2026-10-22T00:00:00.000Z 23:59",
+    "municipios": [
+     "Lajeado"
+    ]
+   },
+   {
+    "grupo": "futuro",
+    "descricao": "Tempestade",
+    "severidade": "Perigo Potencial",
+    "inicio": "2026-10-23T00:00:00.000Z 00:00",
+    "fim": "2026-10-23T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
     ]
