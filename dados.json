@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-20T20:29:58.635Z",
+ "consultadoEm": "2026-10-20T21:03:42.156Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,10 +11,10 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 847,
+   "duracaoMs": 1423,
    "ok": true,
-   "nivelCm": 1282,
-   "leituraEm": "2026-10-20T20:00:00.000Z",
+   "nivelCm": 1283,
+   "leituraEm": "2026-10-20T20:45:00.000Z",
    "variacao1hCm": 2,
    "chuva24hMm": 0
   },
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 849,
+   "duracaoMs": 1363,
    "ok": true,
-   "nivelCm": 82,
-   "leituraEm": "2026-10-20T20:00:00.000Z",
-   "variacao1hCm": -15,
+   "nivelCm": 72,
+   "leituraEm": "2026-10-20T20:45:00.000Z",
+   "variacao1hCm": -14,
    "chuva24hMm": 0
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 876,
+   "duracaoMs": 1195,
    "ok": true,
-   "nivelCm": 210,
-   "leituraEm": "2026-10-20T20:00:00.000Z",
-   "variacao1hCm": -17,
+   "nivelCm": 199,
+   "leituraEm": "2026-10-20T20:45:00.000Z",
+   "variacao1hCm": -15,
    "chuva24hMm": 0
   },
   {
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 818,
+   "duracaoMs": 1253,
    "ok": true,
-   "nivelCm": 179,
-   "leituraEm": "2026-10-20T19:45:00.000Z",
-   "variacao1hCm": -6,
+   "nivelCm": 177,
+   "leituraEm": "2026-10-20T20:45:00.000Z",
+   "variacao1hCm": -2,
    "chuva24hMm": 0
   }
  ],
