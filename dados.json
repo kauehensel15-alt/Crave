@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-20T21:43:48.443Z",
+ "consultadoEm": "2026-10-20T22:13:22.483Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,10 +11,10 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1089,
+   "duracaoMs": 972,
    "ok": true,
    "nivelCm": 1284,
-   "leituraEm": "2026-10-20T21:15:00.000Z",
+   "leituraEm": "2026-10-20T21:45:00.000Z",
    "variacao1hCm": 1,
    "chuva24hMm": 0
   },
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1176,
+   "duracaoMs": 801,
    "ok": true,
-   "nivelCm": 66,
-   "leituraEm": "2026-10-20T21:15:00.000Z",
-   "variacao1hCm": -14,
+   "nivelCm": 61,
+   "leituraEm": "2026-10-20T21:45:00.000Z",
+   "variacao1hCm": -11,
    "chuva24hMm": 0
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1095,
+   "duracaoMs": 872,
    "ok": true,
-   "nivelCm": 192,
-   "leituraEm": "2026-10-20T21:15:00.000Z",
-   "variacao1hCm": -14,
+   "nivelCm": 186,
+   "leituraEm": "2026-10-20T21:45:00.000Z",
+   "variacao1hCm": -13,
    "chuva24hMm": 0
   },
   {
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=19/10/2026&dataFim=21/10/2026",
-   "duracaoMs": 1223,
+   "duracaoMs": 866,
    "ok": true,
-   "nivelCm": 177,
-   "leituraEm": "2026-10-20T20:45:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 183,
+   "leituraEm": "2026-10-20T21:45:00.000Z",
+   "variacao1hCm": 6,
    "chuva24hMm": 0
   }
  ],
