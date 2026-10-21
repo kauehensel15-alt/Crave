@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-21T08:28:51.419Z",
+ "consultadoEm": "2026-10-21T09:09:58.626Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=20/10/2026&dataFim=22/10/2026",
-   "duracaoMs": 938,
+   "duracaoMs": 902,
    "ok": true,
    "nivelCm": 1256,
-   "leituraEm": "2026-10-21T07:30:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 500"
+   "leituraEm": "2026-10-21T08:45:00.000Z",
+   "variacao1hCm": -1,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=20/10/2026&dataFim=22/10/2026",
-   "duracaoMs": 924,
+   "duracaoMs": 717,
    "ok": true,
-   "nivelCm": 152,
-   "leituraEm": "2026-10-21T07:30:00.000Z",
-   "variacao1hCm": 12,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 500"
+   "nivelCm": 154,
+   "leituraEm": "2026-10-21T08:45:00.000Z",
+   "variacao1hCm": 1,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=20/10/2026&dataFim=22/10/2026",
-   "duracaoMs": 869,
+   "duracaoMs": 875,
    "ok": true,
-   "nivelCm": 345,
-   "leituraEm": "2026-10-21T07:30:00.000Z",
-   "variacao1hCm": -4,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 500"
+   "nivelCm": 338,
+   "leituraEm": "2026-10-21T08:45:00.000Z",
+   "variacao1hCm": -7,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=20/10/2026&dataFim=22/10/2026",
-   "duracaoMs": 999,
+   "duracaoMs": 896,
    "ok": true,
-   "nivelCm": 338,
-   "leituraEm": "2026-10-21T07:45:00.000Z",
+   "nivelCm": 333,
+   "leituraEm": "2026-10-21T08:45:00.000Z",
    "variacao1hCm": -5,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 500"
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
