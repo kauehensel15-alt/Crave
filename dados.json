@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-22T12:01:03.993Z",
+ "consultadoEm": "2026-10-22T12:54:49.395Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=21/10/2026&dataFim=23/10/2026",
-   "duracaoMs": 745,
+   "duracaoMs": 1038,
    "ok": true,
-   "nivelCm": 1277,
-   "leituraEm": "2026-10-22T11:30:00.000Z",
-   "variacao1hCm": 5,
+   "nivelCm": 1284,
+   "leituraEm": "2026-10-22T12:30:00.000Z",
+   "variacao1hCm": 7,
    "chuva24hMm": 0
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=21/10/2026&dataFim=23/10/2026",
-   "duracaoMs": 663,
+   "duracaoMs": 982,
    "ok": true,
-   "nivelCm": 124,
-   "leituraEm": "2026-10-22T11:30:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 123,
+   "leituraEm": "2026-10-22T12:30:00.000Z",
+   "variacao1hCm": -1,
    "chuva24hMm": 0
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=21/10/2026&dataFim=23/10/2026",
-   "duracaoMs": 1056,
+   "duracaoMs": 977,
    "ok": true,
    "nivelCm": 303,
-   "leituraEm": "2026-10-22T11:30:00.000Z",
-   "variacao1hCm": -3,
+   "leituraEm": "2026-10-22T12:30:00.000Z",
+   "variacao1hCm": 0,
    "chuva24hMm": 0
   },
   {
@@ -63,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=21/10/2026&dataFim=23/10/2026",
-   "duracaoMs": 814,
+   "duracaoMs": 948,
    "ok": true,
-   "nivelCm": 313,
-   "leituraEm": "2026-10-22T11:45:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 296,
+   "leituraEm": "2026-10-22T12:45:00.000Z",
+   "variacao1hCm": -17,
    "chuva24hMm": 0
   }
  ],
@@ -78,7 +78,7 @@
     "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
-    "inicio": "2026-10-22T00:00:00.000Z 00:00",
+    "inicio": "2026-10-22T00:00:00.000Z 09:25",
     "fim": "2026-10-22T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
@@ -100,6 +100,26 @@
     "severidade": "Perigo Potencial",
     "inicio": "2026-10-23T00:00:00.000Z 00:00",
     "fim": "2026-10-23T00:00:00.000Z 23:59",
+    "municipios": [
+     "Lajeado"
+    ]
+   },
+   {
+    "grupo": "futuro",
+    "descricao": "Tempestade",
+    "severidade": "Perigo Potencial",
+    "inicio": "2026-10-23T00:00:00.000Z 00:01",
+    "fim": "2026-10-23T00:00:00.000Z 23:59",
+    "municipios": [
+     "Lajeado"
+    ]
+   },
+   {
+    "grupo": "futuro",
+    "descricao": "Tempestade",
+    "severidade": "Perigo Potencial",
+    "inicio": "2026-10-25T00:00:00.000Z 00:01",
+    "fim": "2026-10-25T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
     ]
