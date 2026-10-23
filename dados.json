@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-23T22:58:55.400Z",
+ "consultadoEm": "2026-10-23T23:27:12.621Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1129,
+   "duracaoMs": 1563,
    "ok": true,
-   "nivelCm": 1292,
-   "leituraEm": "2026-10-23T22:30:00.000Z",
-   "variacao1hCm": 4,
+   "nivelCm": 1293,
+   "leituraEm": "2026-10-23T23:00:00.000Z",
+   "variacao1hCm": 3,
    "chuva24hMm": 1.2
   },
   {
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1137,
+   "duracaoMs": 1577,
    "ok": true,
-   "nivelCm": 33,
-   "leituraEm": "2026-10-23T22:30:00.000Z",
-   "variacao1hCm": -2,
-   "chuva24hMm": 0.8
+   "nivelCm": 31,
+   "leituraEm": "2026-10-23T23:00:00.000Z",
+   "variacao1hCm": -3,
+   "chuva24hMm": 1
   },
   {
    "codigo": "86510000",
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1179,
+   "duracaoMs": 1339,
    "ok": true,
-   "nivelCm": 168,
-   "leituraEm": "2026-10-23T22:30:00.000Z",
-   "variacao1hCm": -7,
+   "nivelCm": 164,
+   "leituraEm": "2026-10-23T23:00:00.000Z",
+   "variacao1hCm": -8,
    "chuva24hMm": 0.6
   },
   {
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1031,
+   "duracaoMs": 1211,
    "ok": true,
    "nivelCm": 229,
    "leituraEm": "2026-10-23T22:45:00.000Z",
