@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-24T13:56:25.234Z",
+ "consultadoEm": "2026-10-24T14:21:56.748Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 998,
+   "duracaoMs": 846,
    "ok": true,
-   "nivelCm": 1294,
-   "leituraEm": "2026-10-24T13:00:00.000Z",
-   "variacao1hCm": 4,
-   "chuva24hMm": 9,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 1299,
+   "leituraEm": "2026-10-24T14:00:00.000Z",
+   "variacao1hCm": 5,
+   "chuva24hMm": 9.2
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1198,
+   "duracaoMs": 947,
    "ok": true,
-   "nivelCm": 92,
-   "leituraEm": "2026-10-24T13:00:00.000Z",
-   "variacao1hCm": -2,
-   "chuva24hMm": 12,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 87,
+   "leituraEm": "2026-10-24T14:00:00.000Z",
+   "variacao1hCm": -5,
+   "chuva24hMm": 12.2
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 976,
+   "duracaoMs": 1106,
    "ok": true,
-   "nivelCm": 248,
-   "leituraEm": "2026-10-24T13:00:00.000Z",
-   "variacao1hCm": -9,
-   "chuva24hMm": 9,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 240,
+   "leituraEm": "2026-10-24T14:00:00.000Z",
+   "variacao1hCm": -8,
+   "chuva24hMm": 9.2
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1153,
+   "duracaoMs": 1038,
    "ok": true,
-   "nivelCm": 242,
-   "leituraEm": "2026-10-24T12:45:00.000Z",
-   "variacao1hCm": -5,
-   "chuva24hMm": 14.6,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 231,
+   "leituraEm": "2026-10-24T13:45:00.000Z",
+   "variacao1hCm": -11,
+   "chuva24hMm": 15
   }
  ],
  "avisos": {
@@ -83,6 +79,16 @@
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
     "inicio": "2026-10-24T00:00:00.000Z 00:01",
+    "fim": "2026-10-24T00:00:00.000Z 23:59",
+    "municipios": [
+     "Lajeado"
+    ]
+   },
+   {
+    "grupo": "hoje",
+    "descricao": "Tempestade",
+    "severidade": "Perigo",
+    "inicio": "2026-10-24T00:00:00.000Z 11:20",
     "fim": "2026-10-24T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
