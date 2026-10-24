@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-24T02:04:16.830Z",
+ "consultadoEm": "2026-10-24T02:42:41.301Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1176,
+   "duracaoMs": 1280,
    "ok": true,
-   "nivelCm": 1299,
-   "leituraEm": "2026-10-24T01:00:00.000Z",
-   "variacao1hCm": 2,
-   "chuva24hMm": 3.6,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 1281,
+   "leituraEm": "2026-10-24T02:15:00.000Z",
+   "variacao1hCm": -18,
+   "chuva24hMm": 4.4
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1126,
+   "duracaoMs": 1189,
    "ok": true,
-   "nivelCm": 24,
-   "leituraEm": "2026-10-24T01:00:00.000Z",
-   "variacao1hCm": -4,
-   "chuva24hMm": 2.6,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 20,
+   "leituraEm": "2026-10-24T02:15:00.000Z",
+   "variacao1hCm": -3,
+   "chuva24hMm": 4
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=22/10/2026&dataFim=24/10/2026",
-   "duracaoMs": 1075,
+   "duracaoMs": 1057,
    "ok": true,
-   "nivelCm": 155,
-   "leituraEm": "2026-10-24T01:00:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 2.4,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 179,
+   "leituraEm": "2026-10-24T02:15:00.000Z",
+   "variacao1hCm": 23,
+   "chuva24hMm": 4.2
   },
   {
    "codigo": "86472600",
@@ -72,7 +69,7 @@
    "leituraEm": "2026-10-24T00:45:00.000Z",
    "variacao1hCm": 14,
    "chuva24hMm": 1.4,
-   "falhaUltimaColeta": "HTTP 504"
+   "falhaUltimaColeta": "HTTP 500"
   }
  ],
  "avisos": {
