@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-24T12:08:22.632Z",
+ "consultadoEm": "2026-10-24T12:50:17.729Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1062,
+   "duracaoMs": 1027,
    "ok": true,
-   "nivelCm": 1290,
-   "leituraEm": "2026-10-24T11:45:00.000Z",
-   "variacao1hCm": 2,
-   "chuva24hMm": 8.4
+   "nivelCm": 1292,
+   "leituraEm": "2026-10-24T12:30:00.000Z",
+   "variacao1hCm": 3,
+   "chuva24hMm": 8.8
   },
   {
    "codigo": "86720000",
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 971,
+   "duracaoMs": 1452,
    "ok": true,
-   "nivelCm": 94,
-   "leituraEm": "2026-10-24T11:45:00.000Z",
-   "variacao1hCm": 0,
-   "chuva24hMm": 10.8
+   "nivelCm": 93,
+   "leituraEm": "2026-10-24T12:30:00.000Z",
+   "variacao1hCm": -1,
+   "chuva24hMm": 11.8
   },
   {
    "codigo": "86510000",
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 779,
+   "duracaoMs": 998,
    "ok": true,
-   "nivelCm": 259,
-   "leituraEm": "2026-10-24T11:45:00.000Z",
-   "variacao1hCm": -6,
-   "chuva24hMm": 8.2
+   "nivelCm": 255,
+   "leituraEm": "2026-10-24T12:15:00.000Z",
+   "variacao1hCm": -8,
+   "chuva24hMm": 8.8
   },
   {
    "codigo": "86472600",
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 967,
+   "duracaoMs": 997,
    "ok": true,
    "nivelCm": 247,
    "leituraEm": "2026-10-24T11:45:00.000Z",
