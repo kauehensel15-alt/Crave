@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-24T19:24:37.095Z",
+ "consultadoEm": "2026-10-24T19:50:11.052Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1228,
+   "duracaoMs": 870,
    "ok": true,
-   "nivelCm": 1291,
-   "leituraEm": "2026-10-24T19:00:00.000Z",
+   "nivelCm": 1289,
+   "leituraEm": "2026-10-24T19:30:00.000Z",
    "variacao1hCm": -4,
-   "chuva24hMm": 11.4
+   "chuva24hMm": 12
   },
   {
    "codigo": "86720000",
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1023,
+   "duracaoMs": 878,
    "ok": true,
-   "nivelCm": 59,
-   "leituraEm": "2026-10-24T19:00:00.000Z",
-   "variacao1hCm": -7,
-   "chuva24hMm": 12.4
+   "nivelCm": 57,
+   "leituraEm": "2026-10-24T19:30:00.000Z",
+   "variacao1hCm": -5,
+   "chuva24hMm": 13.4
   },
   {
    "codigo": "86510000",
@@ -46,10 +46,10 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1081,
+   "duracaoMs": 998,
    "ok": true,
-   "nivelCm": 197,
-   "leituraEm": "2026-10-24T19:00:00.000Z",
+   "nivelCm": 195,
+   "leituraEm": "2026-10-24T19:15:00.000Z",
    "variacao1hCm": -11,
    "chuva24hMm": 9.2
   },
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1138,
+   "duracaoMs": 785,
    "ok": true,
    "nivelCm": 173,
    "leituraEm": "2026-10-24T18:45:00.000Z",
