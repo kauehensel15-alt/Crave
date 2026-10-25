@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-25T02:11:17.092Z",
+ "consultadoEm": "2026-10-25T02:45:24.308Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1306,
+   "duracaoMs": 1102,
    "ok": true,
-   "nivelCm": 1262,
-   "leituraEm": "2026-10-25T01:45:00.000Z",
-   "variacao1hCm": -1,
+   "nivelCm": 1260,
+   "leituraEm": "2026-10-25T02:30:00.000Z",
+   "variacao1hCm": -2,
    "chuva24hMm": 11.8
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1087,
+   "duracaoMs": 1157,
    "ok": true,
-   "nivelCm": 20,
-   "leituraEm": "2026-10-25T01:45:00.000Z",
-   "variacao1hCm": -5,
+   "nivelCm": 17,
+   "leituraEm": "2026-10-25T02:30:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 12.6
   },
   {
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1444,
+   "duracaoMs": 1177,
    "ok": true,
-   "nivelCm": 144,
-   "leituraEm": "2026-10-25T01:45:00.000Z",
-   "variacao1hCm": -4,
-   "chuva24hMm": 12.2
+   "nivelCm": 143,
+   "leituraEm": "2026-10-25T02:15:00.000Z",
+   "variacao1hCm": -3,
+   "chuva24hMm": 12
   },
   {
    "codigo": "86472600",
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=23/10/2026&dataFim=25/10/2026",
-   "duracaoMs": 1058,
+   "duracaoMs": 1004,
    "ok": true,
    "nivelCm": 309,
    "leituraEm": "2026-10-25T01:45:00.000Z",
