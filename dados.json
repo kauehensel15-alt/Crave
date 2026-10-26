@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-26T02:11:25.019Z",
+ "consultadoEm": "2026-10-26T02:49:02.648Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=24/10/2026&dataFim=26/10/2026",
-   "duracaoMs": 1044,
+   "duracaoMs": 1305,
    "ok": true,
-   "nivelCm": 1277,
-   "leituraEm": "2026-10-26T01:45:00.000Z",
-   "variacao1hCm": 3,
+   "nivelCm": 1276,
+   "leituraEm": "2026-10-26T02:30:00.000Z",
+   "variacao1hCm": -1,
    "chuva24hMm": 3.2
   },
   {
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=24/10/2026&dataFim=26/10/2026",
-   "duracaoMs": 967,
+   "duracaoMs": 1301,
    "ok": true,
-   "nivelCm": 38,
-   "leituraEm": "2026-10-26T01:45:00.000Z",
+   "nivelCm": 34,
+   "leituraEm": "2026-10-26T02:30:00.000Z",
    "variacao1hCm": -5,
-   "chuva24hMm": 6.2
+   "chuva24hMm": 6.4
   },
   {
    "codigo": "86510000",
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=24/10/2026&dataFim=26/10/2026",
-   "duracaoMs": 1290,
+   "duracaoMs": 1104,
    "ok": true,
-   "nivelCm": 161,
-   "leituraEm": "2026-10-26T01:45:00.000Z",
-   "variacao1hCm": -4,
-   "chuva24hMm": 5.6
+   "nivelCm": 162,
+   "leituraEm": "2026-10-26T02:15:00.000Z",
+   "variacao1hCm": 0,
+   "chuva24hMm": 5.8
   },
   {
    "codigo": "86472600",
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=24/10/2026&dataFim=26/10/2026",
-   "duracaoMs": 1014,
+   "duracaoMs": 1355,
    "ok": true,
    "nivelCm": 320,
    "leituraEm": "2026-10-26T01:45:00.000Z",
