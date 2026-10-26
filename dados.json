@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-26T04:08:51.966Z",
+ "consultadoEm": "2026-10-26T04:46:35.430Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=25/10/2026&dataFim=27/10/2026",
-   "duracaoMs": 887,
+   "duracaoMs": 1061,
    "ok": true,
-   "nivelCm": 1276,
-   "leituraEm": "2026-10-26T03:45:00.000Z",
-   "variacao1hCm": 0,
-   "chuva24hMm": 3.2
+   "nivelCm": 1274,
+   "leituraEm": "2026-10-26T04:30:00.000Z",
+   "variacao1hCm": -2,
+   "chuva24hMm": 3.4
   },
   {
    "codigo": "86720000",
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=25/10/2026&dataFim=27/10/2026",
-   "duracaoMs": 886,
+   "duracaoMs": 990,
    "ok": true,
-   "nivelCm": 31,
-   "leituraEm": "2026-10-26T03:45:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 36,
+   "leituraEm": "2026-10-26T04:30:00.000Z",
+   "variacao1hCm": 5,
    "chuva24hMm": 6.2
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=25/10/2026&dataFim=27/10/2026",
-   "duracaoMs": 921,
+   "duracaoMs": 1088,
    "ok": true,
-   "nivelCm": 236,
-   "leituraEm": "2026-10-26T03:45:00.000Z",
-   "variacao1hCm": 64,
+   "nivelCm": 267,
+   "leituraEm": "2026-10-26T04:15:00.000Z",
+   "variacao1hCm": 66,
    "chuva24hMm": 5.8
   },
   {
@@ -63,7 +63,7 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=25/10/2026&dataFim=27/10/2026",
-   "duracaoMs": 972,
+   "duracaoMs": 1028,
    "ok": true,
    "nivelCm": 329,
    "leituraEm": "2026-10-26T03:45:00.000Z",
