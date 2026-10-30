@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-10-30T13:44:04.154Z",
+ "consultadoEm": "2026-10-30T14:39:45.534Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=29/10/2026&dataFim=31/10/2026",
-   "duracaoMs": 1008,
+   "duracaoMs": 851,
    "ok": true,
-   "nivelCm": 1300,
-   "leituraEm": "2026-10-30T12:30:00.000Z",
-   "variacao1hCm": 3,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 1307,
+   "leituraEm": "2026-10-30T14:15:00.000Z",
+   "variacao1hCm": 4,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=29/10/2026&dataFim=31/10/2026",
-   "duracaoMs": 965,
+   "duracaoMs": 795,
    "ok": true,
-   "nivelCm": 55,
-   "leituraEm": "2026-10-30T12:30:00.000Z",
-   "variacao1hCm": -7,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 45,
+   "leituraEm": "2026-10-30T14:15:00.000Z",
+   "variacao1hCm": -6,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=29/10/2026&dataFim=31/10/2026",
-   "duracaoMs": 965,
+   "duracaoMs": 966,
    "ok": true,
-   "nivelCm": 198,
-   "leituraEm": "2026-10-30T12:15:00.000Z",
-   "variacao1hCm": -9,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 185,
+   "leituraEm": "2026-10-30T14:15:00.000Z",
+   "variacao1hCm": -6,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=29/10/2026&dataFim=31/10/2026",
-   "duracaoMs": 943,
+   "duracaoMs": 1010,
    "ok": true,
-   "nivelCm": 201,
-   "leituraEm": "2026-10-30T11:45:00.000Z",
-   "variacao1hCm": -2,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 200,
+   "leituraEm": "2026-10-30T13:45:00.000Z",
+   "variacao1hCm": 0,
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
