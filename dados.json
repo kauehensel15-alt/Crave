@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-02T01:40:14.474Z",
+ "consultadoEm": "2026-11-02T02:31:21.530Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -16,7 +16,8 @@
    "nivelCm": 1307,
    "leituraEm": "2026-11-02T01:15:00.000Z",
    "variacao1hCm": 0,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 500"
   },
   {
    "codigo": "86720000",
@@ -33,7 +34,8 @@
    "nivelCm": 17,
    "leituraEm": "2026-11-02T01:15:00.000Z",
    "variacao1hCm": -2,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 500"
   },
   {
    "codigo": "86510000",
@@ -51,7 +53,8 @@
    "nivelCm": 140,
    "leituraEm": "2026-11-02T01:15:00.000Z",
    "variacao1hCm": -4,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 500"
   },
   {
    "codigo": "86472600",
@@ -68,7 +71,8 @@
    "nivelCm": 179,
    "leituraEm": "2026-11-02T00:45:00.000Z",
    "variacao1hCm": 18,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 500"
   }
  ],
  "avisos": {
