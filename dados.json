@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-04T16:48:34.544Z",
+ "consultadoEm": "2026-11-04T17:45:42.530Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,11 +11,11 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 5891,
+   "duracaoMs": 20145,
    "ok": true,
-   "nivelCm": 1314,
-   "leituraEm": "2026-11-04T16:30:00.000Z",
-   "variacao1hCm": -7,
+   "nivelCm": 1312,
+   "leituraEm": "2026-11-04T17:00:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 47.4
   },
   {
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 5717,
+   "duracaoMs": 20095,
    "ok": true,
-   "nivelCm": 253,
-   "leituraEm": "2026-11-04T16:30:00.000Z",
-   "variacao1hCm": 14,
+   "nivelCm": 262,
+   "leituraEm": "2026-11-04T17:00:00.000Z",
+   "variacao1hCm": 16,
    "chuva24hMm": 61.6
   },
   {
@@ -51,7 +51,8 @@
    "nivelCm": 336,
    "leituraEm": "2026-11-04T16:15:00.000Z",
    "variacao1hCm": -5,
-   "chuva24hMm": 63.4
+   "chuva24hMm": 63.4,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86472600",
@@ -63,11 +64,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 5682,
+   "duracaoMs": 20115,
    "ok": true,
-   "nivelCm": 272,
-   "leituraEm": "2026-11-04T15:45:00.000Z",
-   "variacao1hCm": -9,
+   "nivelCm": 269,
+   "leituraEm": "2026-11-04T16:45:00.000Z",
+   "variacao1hCm": -3,
    "chuva24hMm": 71.2
   }
  ],
