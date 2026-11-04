@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-04T11:00:18.866Z",
+ "consultadoEm": "2026-11-04T11:59:23.605Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 1034,
+   "duracaoMs": 1054,
    "ok": true,
-   "nivelCm": 1270,
-   "leituraEm": "2026-11-04T10:30:00.000Z",
-   "variacao1hCm": 1,
-   "chuva24hMm": 26
+   "nivelCm": 1278,
+   "leituraEm": "2026-11-04T11:30:00.000Z",
+   "variacao1hCm": 8,
+   "chuva24hMm": 27.8
   },
   {
    "codigo": "86720000",
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 1094,
+   "duracaoMs": 995,
    "ok": true,
-   "nivelCm": 214,
-   "leituraEm": "2026-11-04T10:30:00.000Z",
-   "variacao1hCm": 7,
-   "chuva24hMm": 41
+   "nivelCm": 218,
+   "leituraEm": "2026-11-04T11:30:00.000Z",
+   "variacao1hCm": 4,
+   "chuva24hMm": 41.4
   },
   {
    "codigo": "86510000",
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 1718,
+   "duracaoMs": 1002,
    "ok": true,
    "nivelCm": 329,
-   "leituraEm": "2026-11-04T10:30:00.000Z",
-   "variacao1hCm": 5,
-   "chuva24hMm": 40
+   "leituraEm": "2026-11-04T11:30:00.000Z",
+   "variacao1hCm": 0,
+   "chuva24hMm": 41.6
   },
   {
    "codigo": "86472600",
@@ -63,12 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=03/11/2026&dataFim=05/11/2026",
-   "duracaoMs": 1377,
+   "duracaoMs": 986,
    "ok": true,
-   "nivelCm": 334,
-   "leituraEm": "2026-11-04T10:45:00.000Z",
-   "variacao1hCm": 6,
-   "chuva24hMm": 46.6
+   "nivelCm": 338,
+   "leituraEm": "2026-11-04T11:45:00.000Z",
+   "variacao1hCm": 4,
+   "chuva24hMm": 46.8
   }
  ],
  "avisos": {
@@ -78,7 +78,7 @@
     "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
-    "inicio": "2026-11-04T00:00:00.000Z 00:00",
+    "inicio": "2026-11-04T00:00:00.000Z 09:00",
     "fim": "2026-11-04T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
