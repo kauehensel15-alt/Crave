@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-05T16:21:09.555Z",
+ "consultadoEm": "2026-11-05T17:31:36.303Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -72,7 +72,7 @@
    "leituraEm": "2026-11-05T13:45:00.000Z",
    "variacao1hCm": -12,
    "chuva24hMm": 12.6,
-   "falhaUltimaColeta": "HTTP 504"
+   "falhaUltimaColeta": "ETIMEDOUT"
   }
  ],
  "avisos": {
