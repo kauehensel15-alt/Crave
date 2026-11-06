@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-06T19:36:22.119Z",
+ "consultadoEm": "2026-11-06T20:27:42.204Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=05/11/2026&dataFim=07/11/2026",
-   "duracaoMs": 1207,
+   "duracaoMs": 854,
    "ok": true,
-   "nivelCm": 1430,
-   "leituraEm": "2026-11-06T18:00:00.000Z",
-   "variacao1hCm": -10,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 1410,
+   "leituraEm": "2026-11-06T20:00:00.000Z",
+   "variacao1hCm": -3,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86720000",
@@ -29,13 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=05/11/2026&dataFim=07/11/2026",
-   "duracaoMs": 8692,
+   "duracaoMs": 1161,
    "ok": true,
-   "nivelCm": 421,
-   "leituraEm": "2026-11-06T18:00:00.000Z",
-   "variacao1hCm": -12,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 408,
+   "leituraEm": "2026-11-06T20:00:00.000Z",
+   "variacao1hCm": -4,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -48,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=05/11/2026&dataFim=07/11/2026",
-   "duracaoMs": 1187,
+   "duracaoMs": 889,
    "ok": true,
-   "nivelCm": 563,
-   "leituraEm": "2026-11-06T17:15:00.000Z",
-   "variacao1hCm": -13,
-   "chuva24hMm": 0.8,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 548,
+   "leituraEm": "2026-11-06T20:00:00.000Z",
+   "variacao1hCm": 1,
+   "chuva24hMm": 0.8
   },
   {
    "codigo": "86472600",
@@ -66,13 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=05/11/2026&dataFim=07/11/2026",
-   "duracaoMs": 7289,
+   "duracaoMs": 983,
    "ok": true,
-   "nivelCm": 537,
-   "leituraEm": "2026-11-06T17:45:00.000Z",
-   "variacao1hCm": 2,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "HTTP 504"
+   "nivelCm": 558,
+   "leituraEm": "2026-11-06T19:45:00.000Z",
+   "variacao1hCm": 19,
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
