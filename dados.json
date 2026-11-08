@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-08T03:18:06.909Z",
+ "consultadoEm": "2026-11-08T04:23:00.773Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,12 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=07/11/2026&dataFim=09/11/2026",
-   "duracaoMs": 893,
+   "duracaoMs": 1139,
    "ok": true,
-   "nivelCm": 1306,
-   "leituraEm": "2026-11-08T03:00:00.000Z",
-   "variacao1hCm": 8,
-   "chuva24hMm": 5.6
+   "nivelCm": 1317,
+   "leituraEm": "2026-11-08T04:00:00.000Z",
+   "variacao1hCm": 11,
+   "chuva24hMm": 5.4
   },
   {
    "codigo": "86720000",
@@ -28,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=07/11/2026&dataFim=09/11/2026",
-   "duracaoMs": 740,
+   "duracaoMs": 1157,
    "ok": true,
-   "nivelCm": 358,
-   "leituraEm": "2026-11-08T03:00:00.000Z",
-   "variacao1hCm": 23,
+   "nivelCm": 377,
+   "leituraEm": "2026-11-08T04:00:00.000Z",
+   "variacao1hCm": 19,
    "chuva24hMm": 10.4
   },
   {
@@ -46,11 +46,11 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=07/11/2026&dataFim=09/11/2026",
-   "duracaoMs": 768,
+   "duracaoMs": 987,
    "ok": true,
-   "nivelCm": 518,
-   "leituraEm": "2026-11-08T02:45:00.000Z",
-   "variacao1hCm": 24,
+   "nivelCm": 527,
+   "leituraEm": "2026-11-08T03:45:00.000Z",
+   "variacao1hCm": 9,
    "chuva24hMm": 8.6
   },
   {
@@ -63,12 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=07/11/2026&dataFim=09/11/2026",
-   "duracaoMs": 903,
+   "duracaoMs": 1133,
    "ok": true,
-   "nivelCm": 516,
-   "leituraEm": "2026-11-08T02:45:00.000Z",
-   "variacao1hCm": -5,
-   "chuva24hMm": 9.4
+   "nivelCm": 506,
+   "leituraEm": "2026-11-08T03:45:00.000Z",
+   "variacao1hCm": -10,
+   "chuva24hMm": 8.2
   }
  ],
  "avisos": {
