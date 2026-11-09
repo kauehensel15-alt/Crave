@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-09T18:45:59.160Z",
+ "consultadoEm": "2026-11-09T19:49:07.113Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,13 +11,12 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1229,
+   "duracaoMs": 914,
    "ok": true,
-   "nivelCm": 1320,
-   "leituraEm": "2026-11-09T17:30:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "sem_leitura"
+   "nivelCm": 1314,
+   "leituraEm": "2026-11-09T19:30:00.000Z",
+   "variacao1hCm": -4,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86720000",
@@ -29,11 +28,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1550,
+   "duracaoMs": 834,
    "ok": true,
-   "nivelCm": 275,
-   "leituraEm": "2026-11-09T18:15:00.000Z",
-   "variacao1hCm": -11,
+   "nivelCm": 259,
+   "leituraEm": "2026-11-09T19:15:00.000Z",
+   "variacao1hCm": -16,
    "chuva24hMm": 0
   },
   {
@@ -47,13 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1808,
+   "duracaoMs": 954,
    "ok": true,
-   "nivelCm": 386,
-   "leituraEm": "2026-11-09T17:15:00.000Z",
-   "variacao1hCm": -21,
-   "chuva24hMm": 0,
-   "falhaUltimaColeta": "sem_leitura"
+   "nivelCm": 341,
+   "leituraEm": "2026-11-09T19:15:00.000Z",
+   "variacao1hCm": -24,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -65,11 +63,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1153,
+   "duracaoMs": 756,
    "ok": true,
-   "nivelCm": 330,
-   "leituraEm": "2026-11-09T17:45:00.000Z",
-   "variacao1hCm": -10,
+   "nivelCm": 335,
+   "leituraEm": "2026-11-09T18:45:00.000Z",
+   "variacao1hCm": 5,
    "chuva24hMm": 0
   }
  ],
