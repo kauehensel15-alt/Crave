@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-09T17:52:53.599Z",
+ "consultadoEm": "2026-11-09T18:45:59.160Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -16,7 +16,8 @@
    "nivelCm": 1320,
    "leituraEm": "2026-11-09T17:30:00.000Z",
    "variacao1hCm": -3,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "sem_leitura"
   },
   {
    "codigo": "86720000",
@@ -28,11 +29,11 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1001,
+   "duracaoMs": 1550,
    "ok": true,
-   "nivelCm": 286,
-   "leituraEm": "2026-11-09T17:15:00.000Z",
-   "variacao1hCm": -6,
+   "nivelCm": 275,
+   "leituraEm": "2026-11-09T18:15:00.000Z",
+   "variacao1hCm": -11,
    "chuva24hMm": 0
   },
   {
@@ -51,7 +52,8 @@
    "nivelCm": 386,
    "leituraEm": "2026-11-09T17:15:00.000Z",
    "variacao1hCm": -21,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "sem_leitura"
   },
   {
    "codigo": "86472600",
@@ -63,11 +65,11 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=08/11/2026&dataFim=10/11/2026",
-   "duracaoMs": 1356,
+   "duracaoMs": 1153,
    "ok": true,
-   "nivelCm": 340,
-   "leituraEm": "2026-11-09T16:45:00.000Z",
-   "variacao1hCm": -24,
+   "nivelCm": 330,
+   "leituraEm": "2026-11-09T17:45:00.000Z",
+   "variacao1hCm": -10,
    "chuva24hMm": 0
   }
  ],
