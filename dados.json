@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-18T02:10:16.468Z",
+ "consultadoEm": "2026-11-18T10:10:31.127Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -10,12 +10,12 @@
     "alerta": 1700,
     "inundacao": 1900
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=16/11/2026&dataFim=18/11/2026",
-   "duracaoMs": 1470,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=17/11/2026&dataFim=19/11/2026",
+   "duracaoMs": 1196,
    "ok": true,
-   "nivelCm": 1285,
-   "leituraEm": "2026-11-18T01:45:00.000Z",
-   "variacao1hCm": 5,
+   "nivelCm": 1274,
+   "leituraEm": "2026-11-18T09:45:00.000Z",
+   "variacao1hCm": 2,
    "chuva24hMm": 2.8
   },
   {
@@ -27,12 +27,12 @@
     "alerta": 900,
     "inundacao": 1200
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=16/11/2026&dataFim=18/11/2026",
-   "duracaoMs": 1904,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=17/11/2026&dataFim=19/11/2026",
+   "duracaoMs": 1179,
    "ok": true,
-   "nivelCm": 88,
-   "leituraEm": "2026-11-18T01:45:00.000Z",
-   "variacao1hCm": -8,
+   "nivelCm": 121,
+   "leituraEm": "2026-11-18T09:45:00.000Z",
+   "variacao1hCm": 4,
    "chuva24hMm": 0
   },
   {
@@ -45,12 +45,12 @@
     "inundacao": 1800
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=16/11/2026&dataFim=18/11/2026",
-   "duracaoMs": 1616,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=17/11/2026&dataFim=19/11/2026",
+   "duracaoMs": 1179,
    "ok": true,
-   "nivelCm": 152,
-   "leituraEm": "2026-11-18T01:45:00.000Z",
-   "variacao1hCm": -2,
+   "nivelCm": 223,
+   "leituraEm": "2026-11-18T09:45:00.000Z",
+   "variacao1hCm": -1,
    "chuva24hMm": 0.2
   },
   {
@@ -62,12 +62,12 @@
     "alerta": 900,
     "inundacao": 1500
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=16/11/2026&dataFim=18/11/2026",
-   "duracaoMs": 1252,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=17/11/2026&dataFim=19/11/2026",
+   "duracaoMs": 1237,
    "ok": true,
-   "nivelCm": 243,
-   "leituraEm": "2026-11-18T01:45:00.000Z",
-   "variacao1hCm": 10,
+   "nivelCm": 240,
+   "leituraEm": "2026-11-18T09:45:00.000Z",
+   "variacao1hCm": -4,
    "chuva24hMm": 0.8
   }
  ],
@@ -78,16 +78,16 @@
     "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
-    "inicio": "2026-11-17T00:00:00.000Z 09:00",
-    "fim": "2026-11-17T00:00:00.000Z 23:59",
+    "inicio": "2026-11-18T00:00:00.000Z 00:00",
+    "fim": "2026-11-18T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
     ]
    },
    {
-    "grupo": "futuro",
+    "grupo": "hoje",
     "descricao": "Tempestade",
-    "severidade": "Perigo Potencial",
+    "severidade": "Perigo",
     "inicio": "2026-11-18T00:00:00.000Z 00:00",
     "fim": "2026-11-18T00:00:00.000Z 23:59",
     "municipios": [
@@ -100,16 +100,6 @@
     "severidade": "Perigo Potencial",
     "inicio": "2026-11-19T00:00:00.000Z 00:00",
     "fim": "2026-11-19T00:00:00.000Z 23:59",
-    "municipios": [
-     "Lajeado"
-    ]
-   },
-   {
-    "grupo": "futuro",
-    "descricao": "Tempestade",
-    "severidade": "Perigo",
-    "inicio": "2026-11-18T00:00:00.000Z 00:00",
-    "fim": "2026-11-18T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
     ]
