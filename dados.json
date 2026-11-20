@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-19T23:52:07.446Z",
+ "consultadoEm": "2026-11-20T06:00:08.080Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -16,7 +16,8 @@
    "nivelCm": 1276,
    "leituraEm": "2026-11-19T23:30:00.000Z",
    "variacao1hCm": 4,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 503"
   },
   {
    "codigo": "86720000",
@@ -33,7 +34,8 @@
    "nivelCm": 80,
    "leituraEm": "2026-11-19T23:30:00.000Z",
    "variacao1hCm": -4,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 503"
   },
   {
    "codigo": "86510000",
@@ -51,7 +53,8 @@
    "nivelCm": 143,
    "leituraEm": "2026-11-19T23:15:00.000Z",
    "variacao1hCm": -8,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 503"
   },
   {
    "codigo": "86472600",
@@ -68,14 +71,15 @@
    "nivelCm": 208,
    "leituraEm": "2026-11-19T22:45:00.000Z",
    "variacao1hCm": 38,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 503"
   }
  ],
  "avisos": {
   "ok": true,
   "avisos": [
    {
-    "grupo": "futuro",
+    "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
     "inicio": "2026-11-20T00:00:00.000Z 09:06",
@@ -85,7 +89,7 @@
     ]
    },
    {
-    "grupo": "futuro",
+    "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo",
     "inicio": "2026-11-20T00:00:00.000Z 09:16",
