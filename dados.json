@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-21T18:13:28.487Z",
+ "consultadoEm": "2026-11-21T23:25:18.704Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -11,7 +11,7 @@
     "inundacao": 1900
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=20/11/2026&dataFim=22/11/2026",
-   "duracaoMs": 7837,
+   "duracaoMs": 1144,
    "ok": true,
    "nivelCm": 1548,
    "leituraEm": "2026-11-21T17:00:00.000Z",
@@ -28,12 +28,12 @@
     "inundacao": 1200
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=20/11/2026&dataFim=22/11/2026",
-   "duracaoMs": 7642,
+   "duracaoMs": 1213,
    "ok": true,
-   "nivelCm": 643,
-   "leituraEm": "2026-11-21T17:45:00.000Z",
-   "variacao1hCm": -3,
-   "chuva24hMm": 8.8
+   "nivelCm": 665,
+   "leituraEm": "2026-11-21T23:00:00.000Z",
+   "variacao1hCm": 4,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86510000",
@@ -46,12 +46,12 @@
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=20/11/2026&dataFim=22/11/2026",
-   "duracaoMs": 9684,
+   "duracaoMs": 1152,
    "ok": true,
-   "nivelCm": 807,
-   "leituraEm": "2026-11-21T17:45:00.000Z",
-   "variacao1hCm": 5,
-   "chuva24hMm": 8.8
+   "nivelCm": 832,
+   "leituraEm": "2026-11-21T23:00:00.000Z",
+   "variacao1hCm": -1,
+   "chuva24hMm": 0
   },
   {
    "codigo": "86472600",
@@ -63,12 +63,12 @@
     "inundacao": 1500
    },
    "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=20/11/2026&dataFim=22/11/2026",
-   "duracaoMs": 10531,
+   "duracaoMs": 1012,
    "ok": true,
-   "nivelCm": 777,
-   "leituraEm": "2026-11-21T17:45:00.000Z",
-   "variacao1hCm": 8,
-   "chuva24hMm": 15.4
+   "nivelCm": 790,
+   "leituraEm": "2026-11-21T22:45:00.000Z",
+   "variacao1hCm": -7,
+   "chuva24hMm": 0
   }
  ],
  "avisos": {
