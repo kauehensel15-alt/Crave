@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-23T00:18:51.498Z",
+ "consultadoEm": "2026-11-23T07:59:53.779Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -10,8 +10,8 @@
     "alerta": 1700,
     "inundacao": 1900
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=21/11/2026&dataFim=23/11/2026",
-   "duracaoMs": 1170,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86879300&dataInicio=22/11/2026&dataFim=24/11/2026",
+   "duracaoMs": 793,
    "ok": true,
    "nivelCm": 1379,
    "leituraEm": "2026-11-22T21:00:00.000Z",
@@ -27,12 +27,12 @@
     "alerta": 900,
     "inundacao": 1200
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=21/11/2026&dataFim=23/11/2026",
-   "duracaoMs": 1076,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86720000&dataInicio=22/11/2026&dataFim=24/11/2026",
+   "duracaoMs": 793,
    "ok": true,
-   "nivelCm": 404,
-   "leituraEm": "2026-11-23T00:00:00.000Z",
-   "variacao1hCm": 13,
+   "nivelCm": 369,
+   "leituraEm": "2026-11-23T07:30:00.000Z",
+   "variacao1hCm": -9,
    "chuva24hMm": 10.6
   },
   {
@@ -45,12 +45,12 @@
     "inundacao": 1800
    },
    "nota": "Cota de atenção de Muçum ainda a confirmar com o SGB: o gráfico do boletim usa 500 cm, e o texto já citou 600 cm.",
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=21/11/2026&dataFim=23/11/2026",
-   "duracaoMs": 1187,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86510000&dataInicio=22/11/2026&dataFim=24/11/2026",
+   "duracaoMs": 1033,
    "ok": true,
-   "nivelCm": 571,
-   "leituraEm": "2026-11-22T23:45:00.000Z",
-   "variacao1hCm": 14,
+   "nivelCm": 500,
+   "leituraEm": "2026-11-23T07:30:00.000Z",
+   "variacao1hCm": -10,
    "chuva24hMm": 1
   },
   {
@@ -62,28 +62,18 @@
     "alerta": 900,
     "inundacao": 1500
    },
-   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=21/11/2026&dataFim=23/11/2026",
-   "duracaoMs": 1118,
+   "fonteUrl": "https://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=86472600&dataInicio=22/11/2026&dataFim=24/11/2026",
+   "duracaoMs": 700,
    "ok": true,
-   "nivelCm": 572,
-   "leituraEm": "2026-11-22T23:45:00.000Z",
-   "variacao1hCm": -5,
+   "nivelCm": 495,
+   "leituraEm": "2026-11-23T07:45:00.000Z",
+   "variacao1hCm": 2,
    "chuva24hMm": 6
   }
  ],
  "avisos": {
   "ok": true,
   "avisos": [
-   {
-    "grupo": "hoje",
-    "descricao": "Tempestade",
-    "severidade": "Perigo Potencial",
-    "inicio": "2026-11-21T00:00:00.000Z 09:28",
-    "fim": "2026-11-22T00:00:00.000Z 23:59",
-    "municipios": [
-     "Lajeado"
-    ]
-   },
    {
     "grupo": "futuro",
     "descricao": "Tempestade",
