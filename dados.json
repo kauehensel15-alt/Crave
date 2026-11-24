@@ -1,5 +1,5 @@
 {
- "consultadoEm": "2026-11-24T04:47:54.199Z",
+ "consultadoEm": "2026-11-24T15:34:36.358Z",
  "estacoes": [
   {
    "codigo": "86879300",
@@ -16,7 +16,8 @@
    "nivelCm": 1363,
    "leituraEm": "2026-11-23T17:00:00.000Z",
    "variacao1hCm": null,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86720000",
@@ -33,7 +34,8 @@
    "nivelCm": 373,
    "leituraEm": "2026-11-24T04:30:00.000Z",
    "variacao1hCm": -2,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86510000",
@@ -51,7 +53,8 @@
    "nivelCm": 516,
    "leituraEm": "2026-11-24T04:15:00.000Z",
    "variacao1hCm": -7,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   },
   {
    "codigo": "86472600",
@@ -68,7 +71,8 @@
    "nivelCm": 501,
    "leituraEm": "2026-11-24T03:45:00.000Z",
    "variacao1hCm": -9,
-   "chuva24hMm": 0
+   "chuva24hMm": 0,
+   "falhaUltimaColeta": "HTTP 504"
   }
  ],
  "avisos": {
@@ -78,7 +82,7 @@
     "grupo": "hoje",
     "descricao": "Tempestade",
     "severidade": "Perigo Potencial",
-    "inicio": "2026-11-24T00:00:00.000Z 00:00",
+    "inicio": "2026-11-24T00:00:00.000Z 09:06",
     "fim": "2026-11-24T00:00:00.000Z 23:59",
     "municipios": [
      "Lajeado"
